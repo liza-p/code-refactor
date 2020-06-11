@@ -21,7 +21,7 @@ Make sure that:
 ## Coding style
 
 ### Semantic HTML
-Use semantic HTML elements (`<header>`,`<nav>`, `<section>`, `<aside>`) over non-semantic elements (`<div>`) to provide meaning about it's content
+Use semantic HTML elements (`<header>`,`<nav>`, `<section>`, `<aside>`) over non-semantic elements (`<div>`) to provide meaning about it's content.
 
 ### CSS style grouping
 When adding CSS styles make sure to group them together instead of duplicating
